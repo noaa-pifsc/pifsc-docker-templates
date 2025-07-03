@@ -1,0 +1,9 @@
+cx_Oracle==7.3.0
+ssh==1.8.0
+pytz==2017.3
+reportlab==2.7
+requests
+zeep
+# Install linting tools
+autopep8<1.6.0
+pycodestyle<=2.7.0
