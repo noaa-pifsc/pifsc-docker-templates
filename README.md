@@ -1,6 +1,7 @@
-# [PROJECT NAME]
+# PIFSC Docker Templates
 
 ## Overview
+This project was created to standardize and manage base docker images for PIFSC.
 
 ## Prerequisites
 
