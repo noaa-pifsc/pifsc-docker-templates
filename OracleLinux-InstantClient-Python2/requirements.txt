@@ -1,7 +1,7 @@
 cx_Oracle==7.3.0
 ssh==1.8.0
 pytz==2017.3
-reportlab==2.7
+reportlab==3.6.13
 requests
 zeep
 # Install linting tools
